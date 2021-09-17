@@ -6,7 +6,7 @@ const axios = require('axios');
 
 // LIST 
 const EFFECT_DESC = "Set of commands to convert text into effective images."
-const NEED_WORD = "*You Must Enter a Word*"
+const NEED_WORD = "*You Must Enter dunno word*"
 
 if (Config.WORKTYPE == 'private') {
 
